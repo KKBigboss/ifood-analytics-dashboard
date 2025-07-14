@@ -138,3 +138,4 @@ Desktop.ini
 
 # Arquivos temporários do projeto
 check_data.py
+*.tmp
