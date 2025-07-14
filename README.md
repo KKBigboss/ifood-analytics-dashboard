@@ -8,7 +8,7 @@
 
 ## 📋 Visão Geral do Projeto
 
-Este projeto demonstra habilidades em análise de dados, storytelling e pensamento estratégico através de uma análise completa do mercado de delivery, simulando cenários reais do iFood.
+Este projeto demonstra minhas habilidades em análise de dados, storytelling e pensamento estratégico através de uma análise completa do mercado de delivery, simulando cenários reais do iFood.
 
 ## 🎯 Objetivos
 
@@ -167,9 +167,9 @@ ifood-analytics-dashboard/
 
 ## 📧 Contato
 
-**Desenvolvido por:** [Seu Nome]  
-**LinkedIn:** [seu-linkedin]  
-**Email:** [seu-email]  
+**Desenvolvido por:** Kayan Pracidelli 
+**LinkedIn:** [https://www.linkedin.com/in/kayan-pracidelli-a9434440/]  
+**Email:** [kayan.pracidelli@gmail.com]  
 
 ---
 
@@ -181,8 +181,6 @@ Este projeto foi desenvolvido para demonstrar competências em:
 - 📈 **Business Intelligence** e KPIs
 - 💡 **Storytelling** baseado em dados
 - 🎯 **Pensamento Estratégico** para negócios
-
-**Ideal para posições em:** Data Analytics, Business Intelligence, Product Analytics, Strategy & Operations
 
 ## ⭐ Se este projeto foi útil, deixe uma estrela!
 
